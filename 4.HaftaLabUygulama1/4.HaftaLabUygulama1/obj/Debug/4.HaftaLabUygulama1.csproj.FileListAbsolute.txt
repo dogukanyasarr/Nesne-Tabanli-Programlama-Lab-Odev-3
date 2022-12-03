@@ -1,0 +1,7 @@
+C:\Users\msı\source\repos\4.HaftaLabUygulama1\4.HaftaLabUygulama1\bin\Debug\4.HaftaLabUygulama1.exe.config
+C:\Users\msı\source\repos\4.HaftaLabUygulama1\4.HaftaLabUygulama1\bin\Debug\4.HaftaLabUygulama1.exe
+C:\Users\msı\source\repos\4.HaftaLabUygulama1\4.HaftaLabUygulama1\bin\Debug\4.HaftaLabUygulama1.pdb
+C:\Users\msı\source\repos\4.HaftaLabUygulama1\4.HaftaLabUygulama1\obj\Debug\4.HaftaLabUygulama1.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\4.HaftaLabUygulama1\4.HaftaLabUygulama1\obj\Debug\4.HaftaLabUygulama1.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\4.HaftaLabUygulama1\4.HaftaLabUygulama1\obj\Debug\4.HaftaLabUygulama1.exe
+C:\Users\msı\source\repos\4.HaftaLabUygulama1\4.HaftaLabUygulama1\obj\Debug\4.HaftaLabUygulama1.pdb

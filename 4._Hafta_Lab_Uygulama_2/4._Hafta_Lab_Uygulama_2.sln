@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4._Hafta_Lab_Uygulama_2", "4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2.csproj", "{801AAF07-6CCD-46BC-A9BB-03F74D36238F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{801AAF07-6CCD-46BC-A9BB-03F74D36238F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801AAF07-6CCD-46BC-A9BB-03F74D36238F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801AAF07-6CCD-46BC-A9BB-03F74D36238F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801AAF07-6CCD-46BC-A9BB-03F74D36238F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D76FFF3B-B8C4-4053-B44F-1CD997A53DF9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\msı\source\repos\9._hafta_slaytlari_odev_14\9._hafta_slaytlari_odev_14\bin\Debug\9._hafta_slaytlari_odev_14.exe.config
+C:\Users\msı\source\repos\9._hafta_slaytlari_odev_14\9._hafta_slaytlari_odev_14\bin\Debug\9._hafta_slaytlari_odev_14.exe
+C:\Users\msı\source\repos\9._hafta_slaytlari_odev_14\9._hafta_slaytlari_odev_14\bin\Debug\9._hafta_slaytlari_odev_14.pdb
+C:\Users\msı\source\repos\9._hafta_slaytlari_odev_14\9._hafta_slaytlari_odev_14\obj\Debug\9._hafta_slaytlari_odev_14.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\9._hafta_slaytlari_odev_14\9._hafta_slaytlari_odev_14\obj\Debug\9._hafta_slaytlari_odev_14.exe
+C:\Users\msı\source\repos\9._hafta_slaytlari_odev_14\9._hafta_slaytlari_odev_14\obj\Debug\9._hafta_slaytlari_odev_14.pdb

@@ -1,0 +1,7 @@
+C:\Users\msı\source\repos\4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2\bin\Debug\4._Hafta_Lab_Uygulama_2.exe.config
+C:\Users\msı\source\repos\4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2\bin\Debug\4._Hafta_Lab_Uygulama_2.exe
+C:\Users\msı\source\repos\4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2\bin\Debug\4._Hafta_Lab_Uygulama_2.pdb
+C:\Users\msı\source\repos\4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2\obj\Debug\4._Hafta_Lab_Uygulama_2.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2\obj\Debug\4._Hafta_Lab_Uygulama_2.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2\obj\Debug\4._Hafta_Lab_Uygulama_2.exe
+C:\Users\msı\source\repos\4._Hafta_Lab_Uygulama_2\4._Hafta_Lab_Uygulama_2\obj\Debug\4._Hafta_Lab_Uygulama_2.pdb
